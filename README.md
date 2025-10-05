@@ -4,7 +4,7 @@
 
 LunaProxy is a leading residential proxy service provider that offers access to over 200 million real residential IP addresses spanning 195 countries and regions worldwide. The platform specializes in providing dynamic residential proxies, static residential proxies, datacenter proxies, and rotating ISP proxies with competitive pricing starting as low as $0.77 per GB. LunaProxy serves various use cases including web scraping, data collection, ad verification, SEO monitoring, social media marketing, market research, and e-commerce operations. The service features high-speed connections, 99% uptime guarantee, unlimited bandwidth options, and supports HTTP, HTTPS, and SOCKS5 protocols. With city-level and country-level targeting capabilities, LunaProxy enables users to access geo-restricted content and collect web data efficiently while maintaining anonymity and avoiding IP blocks.
 
-<img width="3462" height="1674" alt="image" src="https://github.com/user-attachments/assets/972ed7f7-8433-4c6e-bc67-45ca5a12f5b2" />
+<img width="3323" height="1665" alt="image" src="https://github.com/user-attachments/assets/37c6ed71-75d8-4914-bbbe-0d13e3236266" />
 
 ## LunaProxy Official Website Address
 
